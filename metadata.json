@@ -1,0 +1,6 @@
+{
+  "name": "Keys Select by Lemon Tree Hotels, Kufri",
+  "description": "A contemporary luxury mountain retreat in Kufri, Shimla, Himachal Pradesh — where warm Lemon Tree hospitality meets the scenic beauty of the Himalayas.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
